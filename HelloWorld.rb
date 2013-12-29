@@ -9,3 +9,4 @@ str = <<"EOS"
 EOS
 
 print str
+#TEST
